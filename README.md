@@ -1,11 +1,14 @@
 # 🎬 Code Saver + Block List - Browser Console Script
 
 <div align="center">
-  <video src="demo/demo-video.gif" width="100%" controls autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://nokinnngsss">
+    <img src="demo/demo-thumbnail.gif" width="100%" alt="Watch Demo">
+  </a>
   
-  <p><em>Watch the demo above to see the script in action</em></p>
+  <p>
+    <strong>👆 Click to watch the demo video</strong><br>
+    <em>See the script in action - from installation to saving code blocks</em>
+  </p>
 </div>
 
 ---
@@ -35,11 +38,27 @@ A powerful browser console script that enhances code block interaction on any we
 
 ---
 
-## 🎮 How It Works
+## 🎮 Quick Demo Preview
 
 <div align="center">
-  <img src="screenshots/ui-preview.png" alt="UI Preview" width="600"/>
-  <p><em>The floating UI in action</em></p>
+  <table>
+    <tr>
+      <td><img src="screenshots/console-paste.png" alt="Console" width="400"/></td>
+      <td><img src="screenshots/save-button.png" alt="Save Button" width="400"/></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Paste in console (F12)</em></td>
+      <td align="center"><em>💾 Save button appears automatically</em></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/list-panel.png" alt="List Panel" width="400"/></td>
+      <td><img src="screenshots/download-dialog.png" alt="Download" width="400"/></td>
+    </tr>
+    <tr>
+      <td align="center"><em>📋 Interactive block navigator</em></td>
+      <td align="center"><em>💾 Downloads with correct extension</em></td>
+    </tr>
+  </table>
 </div>
 
 ### The Flow:
@@ -77,13 +96,15 @@ The script automatically detects these languages from code patterns:
 
 ## 🚀 Quick Start
 
-### One-Line Installation:
+### Installation:
 
 1. Open any webpage with code blocks
 2. Press **F12** to open Developer Console
-3. Copy and paste the entire script
-4. Press **Enter**
+3. Copy the entire script from [`code-saver.js`](code-saver.js)
+4. Paste and press **Enter**
 
 ```javascript
-// Paste the script here and press Enter
-(function() { /* ... full script ... */ })();
+// The script will automatically:
+// - Show a ☰ LIST button
+// - Add 💾 Save buttons to code blocks  
+// - Display languages detected
