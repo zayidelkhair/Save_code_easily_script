@@ -99,7 +99,7 @@ The script automatically detects these languages from code patterns:
 ### Installation:
 
 1. Open any webpage with code blocks
-2. Press **F12** to open Developer Console
+2. Press **F12** or **Ctrl + Shfit + j** to open Developer Console && remove restruction of pasting
 3. Copy the entire script from [`code-saver.js`](code-saver.js)
 4. Paste and press **Enter**
 
