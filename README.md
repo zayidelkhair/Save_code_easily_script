@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://nokinnngsss">
-    <img src="demo/demo-thumbnail.gif" width="100%" alt="Watch Demo">
+    <img src="demo/demo-video.gif" width="100%" alt="Watch Demo">
   </a>
   
   <p>
