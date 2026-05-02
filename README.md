@@ -1,7 +1,7 @@
 # 🎬 Code Saver + Block List - Browser Console Script
 
 <div align="center">
-  <video src="demo/demo-video.mp4" width="100%" controls autoplay loop muted playsinline>
+  <video src="demo/demo-video.gif" width="100%" controls autoplay loop muted playsinline>
     Your browser does not support the video tag.
   </video>
   
